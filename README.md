@@ -8,7 +8,7 @@ This project taught me how to work with JavaScript date/time, lifecycle hooks, a
 
 ## 📸 Screenshot
 
-![Clock Screenshot](./screenshot.png)
+![Clock Screenshot](./screenshot%20(364).png)
 
 ---
 
